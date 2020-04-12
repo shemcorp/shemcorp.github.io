@@ -34,3 +34,10 @@
     margin: 0.9%;
     font-family: 'Concert One', cursive;
 }
+
+/*Блок информации*/
+
+.info-div {
+    width: 90%;
+    height: max-content;
+}
